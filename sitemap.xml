@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/blog/2014/12/30/playing-with-octopress/</loc>
+    <loc>http://unclejustin.github.io/blog/2014/12/30/playing-with-octopress/</loc>
     <lastmod>2014-12-30T16:53:01-06:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/blog/archives/</loc>
-    <lastmod>2014-12-30T16:53:32-06:00</lastmod>
+    <loc>http://unclejustin.github.io/blog/archives/</loc>
+    <lastmod>2014-12-30T17:04:17-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2014-12-30T16:53:32-06:00</lastmod>
+    <loc>http://unclejustin.github.io/</loc>
+    <lastmod>2014-12-30T17:04:17-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
