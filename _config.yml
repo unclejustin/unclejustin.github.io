@@ -1,13 +1,27 @@
-# Site settings
-title: justin boyson dot com
-email: justin@justinboyson.com
-description: > # this means to ignore newlines until "baseurl:"
-  Personal blog/playground for Justin Boyson,
-  UI/X, Front End Developer and all around nice guy.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://unclejustin.github.com" # the base hostname & protocol for your site
-twitter_username: unclejustin
-github_username:  unclejustin
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Justin Boyson dot com
+tagline:          'A Jekyll theme'
+description:      'A static blog about building a static blog. Using the excellent <a href="http://hyde.getpoole.com/">Hyde</a> theme.'
+url:              http://justinboyson.com
+baseurl:          /
+
+author:
+  name:           'Justin Boyson'
+  url:            https://twitter.com/unclejustin
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate]
