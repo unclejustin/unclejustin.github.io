@@ -6,6 +6,30 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+
+  {% if page.comments %}
+  <hr>
+
+  <div class="comments"></div>
+
+  <!-- Comments! -->
+  <h3>Leave a comment</h3>
+
+  <form id="comment">
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message"></textarea>
+
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name">
+
+    <label for="email">Email</label>
+    <input type="text" name="email" id="email">
+
+    <input type="submit" value="Post Comment">
+
+  </form>
+  {% endif %}
 </div>
 
 <div class="related">
