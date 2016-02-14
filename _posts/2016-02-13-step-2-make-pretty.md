@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title:  "Step 2: Make Pretty"
+date:   2016-02-13 20:30:00
+categories: jekyll
+permalink: posts/step-2-make-pretty
 ---
 
 ## First fix that sidebar

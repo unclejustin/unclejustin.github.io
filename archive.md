@@ -1,3 +1,9 @@
+---
+layout: page
+title: Archive
+published: true
+permalink: archives
+---
 ## Blog Posts
 
 {% for post in site.posts %}
