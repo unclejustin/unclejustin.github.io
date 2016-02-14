@@ -3,6 +3,7 @@ layout: post
 title:  "Step 0: Prerequisites"
 date:   2016-02-10 18:20:00
 categories: jekyll
+permalink: posts/step-0-prequisites
 ---
 
 I've been wanting to play with [Jekyll](https://jekyllrb.com/) for a while. What better way than to make a blog and write about building that very same blog.
